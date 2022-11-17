@@ -20,7 +20,12 @@ export default [
 			{
 				title: 'Suptuppel',
 				address: 'B64bwzvcD15Wdiy73rZsGqK8H83HVDvaB4',
-				links: []
+        links: []
+       },
+			 {
+				title: '#MovimientoDePaola',
+				address: 'BBE4HFNxroTGVgC759k8hZ4ufApzc4FAMh',
+        links: []
 			}
 		]
 	}
